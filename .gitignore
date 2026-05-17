@@ -1,0 +1,29 @@
+# Visual Studio build output
+x64/
+x86/
+Debug/
+Release/
+*.exe
+*.obj
+*.pdb
+*.ilk
+*.exp
+*.lib
+*.dll
+
+# Visual Studio project files
+.vs/
+*.user
+*.suo
+*.aps
+*.ncb
+*.sdf
+*.opensdf
+ipch/
+
+# Input data (optional — remove this if you want to include it)
+INPUT_DATA/
+
+# Compiled files
+*.o
+*.out

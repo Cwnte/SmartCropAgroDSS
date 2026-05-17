@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="SmartCropAgroDSS.vcxproj" Id="66c2199c-5ca1-4321-b081-c300ff8da2f0" />
+</Solution>
