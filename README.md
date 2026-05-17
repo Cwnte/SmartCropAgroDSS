@@ -192,7 +192,7 @@ Confirm the terminal connection output window successfully lists exactly **22 ro
 Default structural authentication keys are handled in the standard `main.cpp` entrypoint logic:
 
 ```cpp
-db.connect("root", "EquinoxScout30");
+db.connect("root", "YourPassword");
 
 ```
 
@@ -341,8 +341,10 @@ SYSTEM: Press Enter to launch the dashboard...
 | **Binary DLL Assets Source** | `C:\Program Files\MySQL\mysql-connector-c++-9.7.0-winx64\lib64\` |
 | **Required Target Platform** | **x64 Platform Mode Targets Only** |
 | **Instance Data Workspace** | `agri_dss` |
-| **System Security Keys** | `root` / `EquinoxScout30` |
+| **System Security Keys** | `root` / `YourPassword` |
 
 ---
 
 *SmartCrop Agri-DSS — Computer Programming 2 Project, May 2026*
+
+*Del Castillo, Manalo, Viray*
